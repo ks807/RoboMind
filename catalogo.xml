@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Catalogo de la tienda RoboMind especializada en robotica e inteligencia artificial -->
+
+<catalogo>
+    <datos_tienda>
+        <nombre>RoboMind</nombre>
+        <moneda>EUR</moneda>
+        <ultima_actualizacion>29/09/2026</ultima_actualizacion>
+    </datos_tienda>
+
+    <productos>
+
+        <producto codigo="ROBO-001">
+            <nombre>Robot Educativo SmartBot</nombre>
+            <categorias>
+                <categoria>Robotica</categoria>
+                <categoria>Educacion</categoria>
+                <categoria>Inteligencia artificial</categoria>
+            </categorias>
+            <caracteristicas>
+                <caracteristica>Programable</caracteristica>
+                <caracteristica>Conexion bluetooth</caracteristica>
+                <caracteristica>Reconocimiento de voz</caracteristica>
+            </caracteristicas>
+            <precio>89.99</precio>
+            <valoracion>4.7</valoracion>
+            <stock>15</stock>
+            <fecha_incorporacion>05/09/2026</fecha_incorporacion>
+            <descripcion>Robot educativo programable para aprender conceptos basicos de robotica e inteligencia artificial</descripcion>
+        </producto>
+
+        <producto codigo="ROBO-002">
+            <nombre>Kit Arduino AI Starter</nombre>
+            <categorias>
+                <categoria>Arduino</categoria>
+                <categoria>Inteligencia artificial</categoria>
+                <categoria>Electronica</categoria>
+            </categorias>
+            <caracteristicas>
+                <caracteristica>Placa arduino</caracteristica>
+                <caracteristica>20 sensores</caracteristica>
+                <caracteristica>Conexion USB</caracteristica>
+            </caracteristicas>
+            <precio>54.90</precio>
+            <valoracion>4.8</valoracion>
+            <stock>20</stock>
+            <fecha_incorporacion>07/09/2026</fecha_incorporacion>
+            <descripcion>Kit completo para crear proyectos de robotica y sistemas inteligentes</descripcion>
+        </producto>
+
+        <producto codigo="ROBO-003">
+            <nombre>Raspberry Pi AI Kit</nombre>
+            <categorias>
+                <categoria>Inteligencia artificial</categoria>
+                <categoria>Programacion</categoria>
+                <categoria>Desarrollo</categoria>
+            </categorias>
+            <caracteristicas>
+                <caracteristica>Procesador de cuatro nucleos</caracteristica>
+                <caracteristica>8 GB de RAM</caracteristica>
+                <caracteristica>Wi-Fi integrado</caracteristica>
+            </caracteristicas>
+            <precio>119.99</precio>
+            <valoracion>4.9</valoracion>
+            <stock>12</stock>
+            <fecha_incorporacion>10/09/2026</fecha_incorporacion>
+            <descripcion>Mini ordenador disenado para desarrollar proyectos de inteligencia artificial y automatizacion</descripcion>
+        </producto>
+
+        <producto codigo="ROBO-004">
+            <nombre>Brazo robotico ProArm</nombre>
+            <categorias>
+                <categoria>Robotica</categoria>
+                <categoria>Automatizacion</categoria>
+            </categorias>
+            <caracteristicas>
+                <caracteristica>6 grados de libertad</caracteristica>
+                <caracteristica>Control programable</caracteristica>
+                <caracteristica>Puerto USB</caracteristica>
+            </caracteristicas>
+            <precio>249.90</precio>
+            <valoracion>4.6</valoracion>
+            <stock>7</stock>
+            <fecha_incorporacion>12/09/2026</fecha_incorporacion>
+            <descripcion>Brazo robotico programable para proyectos de automatizacion y aprendizaje</descripcion>
+        </producto>
+
+        <producto codigo="ROBO-005">
+            <nombre>Camara VisionAI</nombre>
+            <categorias>
+                <categoria>Inteligencia Artificial</categoria>
+                <categoria>Vision Artificial</categoria>
+            </categorias>
+            <caracteristicas>
+                <caracteristica>Resolucion Full HD</caracteristica>
+                <caracteristica>Reconocimiento de objetos</caracteristica>
+                <caracteristica>Conexion USB</caracteristica>
+            </caracteristicas>
+            <precio>74.50</precio>
+            <valoracion>4.5</valoracion>
+            <stock>18</stock>
+            <fecha_incorporacion>14/09/2026</fecha_incorporacion>
+            <descripcion>Camara inteligente para proyectos de vision artificial y reconocimiento de objetos</descripcion>
+        </producto>
+
+        <producto codigo="ROBO-006">
+            <nombre>Sensor Multitech</nombre>
+            <categorias>
+                <categoria>Sensores</categoria>
+                <categoria>Robotica</categoria>
+                <categoria>Domotica</categoria>
+            </categorias>
+            <caracteristicas>
+                <caracteristica>Sensor de temperatura</caracteristica>
+                <caracteristica>Sensor de movimiento</caracteristica>
+                <caracteristica>Sensor de distancia</caracteristica>
+            </caracteristicas>
+            <precio>29.90</precio>
+            <valoracion>4.4</valoracion>
+            <stock>35</stock>
+            <fecha_incorporacion>16/09/2026</fecha_incorporacion>
+            <descripcion>Pack de sensores para crear proyectos de robotica automatizacion y domotica</descripcion>
+        </producto>
+
+        <producto codigo="ROBO-007">
+            <nombre>Coche Autonomo RoboCar</nombre>
+            <categorias>
+                <categoria>Robotica</categoria>
+                <categoria>Inteligencia Artificial</categoria>
+                <categoria>Automocion</categoria>
+            </categorias>
+            <caracteristicas>
+                <caracteristica>Control autonomo</caracteristica>
+                <caracteristica>Sensor ultrasonico</caracteristica>
+                <caracteristica>Camara integrada</caracteristica>
+            </caracteristicas>
+            <precio>139.99</precio>
+            <valoracion>4.7</valoracion>
+            <stock>10</stock>
+            <fecha_incorporacion>18/09/2026</fecha_incorporacion>
+            <descripcion>Vehiculo robotico programable capaz de detectar obstaculos y desplazarse de forma autonoma</descripcion>
+        </producto>
+
+        <producto codigo="ROBO-008">
+            <nombre>Modulo VoiceAI</nombre>
+            <categorias>
+                <categoria>Inteligencia Artificial</categoria>
+                <categoria>Reconocimiento de Voz</categoria>
+            </categorias>
+            <caracteristicas>
+                <caracteristica>Reconocimiento de voz</caracteristica>
+                <caracteristica>Microfono integrado</caracteristica>
+                <caracteristica>Bluetooth</caracteristica>
+            </caracteristicas>
+            <precio>39.95</precio>
+            <valoracion>4.3</valoracion>
+            <stock>25</stock>
+            <fecha_incorporacion>20/09/2026</fecha_incorporacion>
+            <descripcion>Modulo para anadir reconocimiento de voz a proyectos de robotica e inteligencia artificial</descripcion>
+        </producto>
+
+        <producto codigo="ROBO-009">
+            <nombre>Kit SmartHome AI</nombre>
+            <categorias>
+                <categoria>Domotica</categoria>
+                <categoria>Inteligencia Artificial</categoria>
+                <categoria>Automatizacion</categoria>
+            </categorias>
+            <caracteristicas>
+                <caracteristica>Control por voz</caracteristica>
+                <caracteristica>Wi-Fi</caracteristica>
+                <caracteristica>Sensores inteligentes</caracteristica>
+            </caracteristicas>
+            <precio>99.90</precio>
+            <valoracion>4.6</valoracion>
+            <stock>14</stock>
+            <fecha_incorporacion>22/09/2026</fecha_incorporacion>
+            <descripcion>Kit para crear sistemas inteligentes de automatizacion y control del hogar</descripcion>
+        </producto>
+
+        <producto codigo="ROBO-010">
+            <nombre>Kit Robot Explorador</nombre>
+            <categorias>
+                <categoria>Robotica</categoria>
+                <categoria>Educacion</categoria>
+                <categoria>Programacion</categoria>
+            </categorias>
+            <caracteristicas>
+                <caracteristica>Programable</caracteristica>
+                <caracteristica>Sensor de distancia</caracteristica>
+                <caracteristica>Conexion Wi-Fi</caracteristica>
+            </caracteristicas>
+            <precio>129.50</precio>
+            <valoracion>4.8</valoracion>
+            <stock>9</stock>
+            <fecha_incorporacion>25/09/2026</fecha_incorporacion>
+            <descripcion>Robot educativo disenado para aprender programacion sensores e inteligencia artificial</descripcion>
+        </producto>
+        
+    </productos>
+</catalogo>
