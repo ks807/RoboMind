@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- Catalogo de RoboMind, tienda especializada en robotica e inteligencia artificial.
@@ -61,7 +60,7 @@
                 <caracteristica>Procesador de cuatro nucleos</caracteristica>
                 <caracteristica>8 GB de RAM</caracteristica>
                 <caracteristica>Wi-Fi integrado</caracteristica>
-            </caracteristiques>
+            </caracteristicas>
             <precio>119.99</precio>
             <valoracion>4.9</valoracion>
             <stock>12</stock>
@@ -153,7 +152,7 @@
                 <caracteristica>Reconocimiento de voz</caracteristica>
                 <caracteristica>Microfono integrado</caracteristica>
                 <caracteristica>Bluetooth</caracteristica>
-            </caracteristiques>
+            </caracteristicas>
             <precio>39.95</precio>
             <valoracion>4.3</valoracion>
             <stock>25</stock>
@@ -191,7 +190,7 @@
                 <caracteristica>Programable</caracteristica>
                 <caracteristica>Sensor de distancia</caracteristica>
                 <caracteristica>Conexion Wi-Fi</caracteristica>
-            </caracteristiques>
+            </caracteristicas>
             <precio>129.50</precio>
             <valoracion>4.8</valoracion>
             <stock>9</stock>
